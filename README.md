@@ -12,9 +12,9 @@ Soy un matemático con una profunda pasión por el análisis de datos, la modeli
 
 ## 🛠️ Habilidades
 
-- **Lenguajes de Programación:** Python, R, SQL
-- **Bibliotecas y Frameworks:** TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
-- **Bases de Datos:** MySQL, PostgreSQL, SQLite
+- **Lenguajes de Programación:** Python, R, SQL, C++
+- **Bibliotecas y Frameworks:** TensorFlow, Keras, PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
+- **Bases de Datos:** 
 - **Herramientas de Desarrollo:** Git, Jupyter Notebooks, VS Code
 - **Áreas de Interés:** Machine Learning, Deep Learning, Data Visualization, Data Analysis, Natural Language Processing, Computer Vison
 
@@ -22,12 +22,14 @@ Soy un matemático con una profunda pasión por el análisis de datos, la modeli
 
 ## 📚 Proyectos Destacados
 
-
 ### [Proyectos de ML y Deep Learning](https://github.com/JaimeLapaz/proyectos-machine-learning-and-deep-learning)
-Una colección de proyectos que incluyen modelos de Machine Learning y Deep Learning aplicados a problemas reales.
+Una compilación de proyectos donde aplico técnicas avanzadas de Machine Learning y Deep Learning para resolver problemas del mundo real. Estos proyectos abarcan desde la clasificación de imágenes y la predicción de series temporales hasta el procesamiento de lenguaje natural (NLP), demostrando el poder de la inteligencia artificial en distintas áreas.
 
-### [Proyecto final bootcamp en IA: Enrutador de preguntas sobre enfermedades](https://github.com/JaimeLapaz/final-project-bootcamp-router-questions)
-Un proyecto que busca clasificar la pregunta introducida y da una respuesta si está dentro de la base de datos con distintas opciones.
+### [Proyecto Final del Bootcamp en IA: Enrutador de Preguntas sobre Enfermedades](https://github.com/JaimeLapaz/final-project-bootcamp-router-questions)
+Un proyecto innovador desarrollado como parte de mi formación en Inteligencia Artificial. Este sistema clasifica preguntas sobre enfermedades y proporciona respuestas precisas utilizando una base de datos especializada. Incluye múltiples opciones de respuesta, optimizando la interacción entre el usuario y la IA.
+
+### [Resolución de Ejercicios con Python](https://github.com/JaimeLapaz/Ejercicios-con-Python)
+Una serie de ejercicios resueltos en Python que abarcan desde conceptos básicos hasta problemas más complejos. Este repositorio es ideal para quienes buscan mejorar su dominio del lenguaje y aplicar la lógica de programación en diferentes escenarios prácticos.
 
 ---
 
