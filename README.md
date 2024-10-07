@@ -25,7 +25,7 @@ Soy un matemático con una profunda pasión por el análisis de datos, la modeli
 ### [Proyectos de ML y Deep Learning](https://github.com/JaimeLapaz/proyectos-machine-learning-and-deep-learning)
 Una compilación de proyectos donde aplico técnicas avanzadas de Machine Learning y Deep Learning para resolver problemas del mundo real. Estos proyectos abarcan desde la clasificación de imágenes y la predicción de series temporales hasta el procesamiento de lenguaje natural (NLP), demostrando el poder de la inteligencia artificial en distintas áreas.
 
-### [Proyecto Final del Bootcamp en IA: Enrutador de Preguntas sobre Enfermedades](https://github.com/JaimeLapaz/final-project-bootcamp-router-questions)
+### [Enrutador de Preguntas sobre Enfermedades](https://github.com/JaimeLapaz/final-project-bootcamp-router-questions)
 Un proyecto innovador desarrollado como parte de mi formación en Inteligencia Artificial. Este sistema clasifica preguntas sobre enfermedades y proporciona respuestas precisas utilizando una base de datos especializada. Incluye múltiples opciones de respuesta, optimizando la interacción entre el usuario y la IA.
 
 ### [Resolución de Ejercicios con Python](https://github.com/JaimeLapaz/Ejercicios-con-Python)
